@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Cam Hoang Dinh
     - name: Date of Birth
-      value: 14th March 1879
+      value: 15th December 2003
     - name: Languages
-      value: English, German
+      value: English, Vietnamese
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: University of Information Technology, Ho Chi Minh, Vietnam
+      year: 2021 - present
       description:
         - Description 1.
         - Description 2.
