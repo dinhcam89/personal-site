@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - dinhcam89
+
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - dinhcam89/demo_jenkins2
+  - dinhcam89/HealthApp
+  - dinhcam89/Online-CV
