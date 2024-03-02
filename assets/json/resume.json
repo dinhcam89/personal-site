@@ -4,7 +4,7 @@
     "label": "DevOps Engineer",
     "image": "",
     "email": "dinhcam1512@gmail.com",
-    "phone": "088 898 559",
+    "phone": "0888 898 559",
     "url": "https://dinhcam89.github.io/personal-site",
     "summary": "I am a DevOps Engineer with 1 years of experience in the field. I am passionate about technology and I am always looking for new things to learn. I am a hardworking, responsible and enthusiastic person. I am always ready to learn and apply new technologies to my work.",
     "location": {
@@ -20,28 +20,16 @@
       }
     ]
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
   "education": [
     {
       "institution": "University of Information Technology, Ho Chi Minh, Viet Nam",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
+      "location": "Viet Nam",
+      "url": "https://www.uit.edu.vn/",
       "area": "Computer Network",
       "studyType": "PhD",
       "startDate": "2021",
       "endDate": "2025",
-      "score": "3.5",
-      "courses": ["Theory of Relativity"]
+      "score": "3.5"
     }
   ],
   "certificates": [
